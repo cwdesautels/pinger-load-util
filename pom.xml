@@ -15,7 +15,7 @@
 
     <modules>
         <module>pinger-core</module>
-<!-- <module>pinger-cli</module>-->
+        <module>pinger-cli</module>
     </modules>
 
     <properties>
